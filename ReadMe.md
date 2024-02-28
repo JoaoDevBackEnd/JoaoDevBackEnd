@@ -1,7 +1,7 @@
 # 💫 About Me:
 Olá Sou João Victor de Souza atualmente estudante de Engenharia de Software,<br>que está disposto a migrar de área  e iniciar minha carreira para Dev Back-End.<br>Minhas habilidades vai além do âmbito acadêmico onde busco me desenvolver mais,<br>realizando cursos e criando Projetos pessoais, me coloco sempre um passo de cada vez<br>e esse repositório é a prova da minha evolução , estou aberto e disposto a novos projetos e propostas<br>Muito Obrigado por Visualizar meu Perfil ! 
 
-
+https://joaodevbackend.github.io/Portifolio-JoaoVictor/
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joão-victor-a51a40207/) 
 
